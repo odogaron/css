@@ -6,3 +6,18 @@ background-position: fixed;
 background-color: #4f4444
 background-repeat: no-repeat;
 }
+
+.col-md-9.col-xs-12 {
+background: #143C54 !important;
+border: 4px double #91AFC2 !important;
+border-top: none !important;
+border-right: none !important;
+border-bottom :none !important;
+}
+
+div.container.main {
+background: #143C54 !important;
+border: 4px double #91AFC2 !important;
+border-left: none !important;
+}
+
